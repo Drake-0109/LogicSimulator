@@ -1,3 +1,0 @@
-D:/Coding/homework1/gtest/test/build/CMakeFiles/gtest_win_test.dir
-D:/Coding/homework1/gtest/test/build/CMakeFiles/edit_cache.dir
-D:/Coding/homework1/gtest/test/build/CMakeFiles/rebuild_cache.dir

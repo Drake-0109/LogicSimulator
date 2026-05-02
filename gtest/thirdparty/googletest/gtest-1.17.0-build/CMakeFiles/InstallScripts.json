@@ -1,9 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"D:/Coding/homework1/gtest/gtest-1.17.0-build/cmake_install.cmake",
-		"D:/Coding/homework1/gtest/gtest-1.17.0-build/googlemock/cmake_install.cmake",
-		"D:/Coding/homework1/gtest/gtest-1.17.0-build/googletest/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

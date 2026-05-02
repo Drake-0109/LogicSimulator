@@ -1,1 +1,0 @@
-  -L"D:/Coding/homework1/gtest/test/../thirdparty/googletest/gtest-1.17.0-build/lib"  -lgtest -lgtest_main -lgmock -lgmock_main -lpthread -lgcov -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
